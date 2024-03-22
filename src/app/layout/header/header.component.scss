@@ -1,0 +1,12 @@
+.wrapper {
+  border-bottom: 1px solid var(--border-color);
+  box-sizing: border-box;
+  height: 80px;
+  padding: 20px 10px;
+  width: 100%;
+}
+
+.logo {
+  height: 100%;
+  object-fit: contain;
+}
