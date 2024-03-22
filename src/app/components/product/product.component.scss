@@ -1,0 +1,25 @@
+img {
+  border-radius: 20px;
+  object-fit: contain;
+  aspect-ratio: 1;
+  background-color: burlywood;
+}
+
+.title {
+  font-size: 1rem;
+  color: burlywood;
+}
+
+.wrapper {
+  width: 250px;
+}
+
+.price-label {
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.price {
+  font-weight: 500;
+  font-size: 1rem;
+}
