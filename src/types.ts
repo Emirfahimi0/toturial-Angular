@@ -28,6 +28,7 @@ export interface IOptions {
 }
 
 export interface IProduct {
+  id?: number;
   image: string;
   name: string;
   price: string;
