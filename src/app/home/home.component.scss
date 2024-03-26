@@ -5,3 +5,11 @@
     justify-content: center;
   }
 }
+
+.add-product-btn {
+  bottom: 20px;
+  box-shadow: 0 0 10px 2.5px rgba(0, 0, 0, 0.2);
+  position: fixed;
+  right: 20px;
+  z-index: 10;
+}
